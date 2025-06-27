@@ -1,0 +1,13 @@
+tensorflow==2.15.0
+keras==2.15.0
+tf-models-official==2.15.0
+ultralytics
+opencv-python
+gradio
+chromadb
+sentence-transformers
+torch
+torchvision
+scikit-learn
+pillow
+google-generativeai
